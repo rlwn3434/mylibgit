@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 master modified
-=======
-Conflict test
->>>>>>> testing

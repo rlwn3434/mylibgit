@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-test3 hello world
-master vi
-=======
-test3
-hello
-<<<<<<< HEAD
->>>>>>> testing
-=======
-third
->>>>>>> third
+master modified

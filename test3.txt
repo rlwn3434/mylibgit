@@ -4,4 +4,8 @@ master vi
 =======
 test3
 hello
+<<<<<<< HEAD
 >>>>>>> testing
+=======
+third
+>>>>>>> third

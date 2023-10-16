@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 test3 hello world
 master vi
+=======
+test3
+hello
+>>>>>>> testing

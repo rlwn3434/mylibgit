@@ -2,5 +2,5 @@ test1
 test VScode
 1017 hello
 hello
-강의실
+강의실1
 집1

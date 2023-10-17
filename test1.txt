@@ -4,4 +4,5 @@ test VScode
 hello
 강의실1
 집1
+aaa testing
 bbb testing
